@@ -1,0 +1,3 @@
+mcrl22lps model.crl2 model.crl2.lps
+lps2pbes --formula=formula-df.mcf model.crl2.lps model.crl2.lps.pbes
+pbes2bool model.crl2.lps.pbes

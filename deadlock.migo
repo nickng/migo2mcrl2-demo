@@ -1,0 +1,10 @@
+def main.main():
+    let t0 = newchan main.main0.t0_chan0, 0;
+    call main.send(t0);
+    recv t0;
+
+def os.NewFile():
+    if else endif;
+
+def main.send(ch):
+    send ch;

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -x
+
+docker run --rm -ti --net=host -v $(pwd):/root nickng/godel:demotool demotool
