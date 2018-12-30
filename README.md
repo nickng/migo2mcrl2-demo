@@ -1,6 +1,10 @@
 # migo2mcrl2-demo
 
 Demo files for MiGo types to mCRL2 generation.
+This demonstrates some of the internals of the [Godel
+Checker](https://bitbucket.org/MobilityReadingGroup/godel-checker) research
+tool. See [here](http://mrg.doc.ic.ac.uk/tools/godel-checker/) for details of
+the tool and the related publications.
 
 ## Pre-requisites
 
